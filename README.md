@@ -1,5 +1,5 @@
 # Building-GAN
-Code problems that help understand Nural Network better
+Code that will help understand Generative Adversarial Networks (GAN) in nural networks and deep learning.
 
 Building a simple GAN capable of generating handwritten digits. 
 Using the MNIST handwritten digits to train the network. Using the TensorFlow Keras dataset to access the MNIST data. 
